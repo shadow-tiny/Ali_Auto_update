@@ -11,9 +11,10 @@
 
 5.关联聚合云推api，实现剧集自动更新到库后的微信推送通知（如下图）
 此图为简体中文版本版本更新
-![IMG_EC1A3115994D-1](https://github.com/wsubset/Ali_Auto_update/assets/157198893/afb30efd-8c5d-48b7-b863-9db4c3cefbd4)
+![Uploading IMG_3312D93E0C42-1.jpeg…]()
+
 此图为繁体中文版本版本更新
-![IMG_0F0BA0EFC3DB-1](https://github.com/wsubset/Ali_Auto_update/assets/157198893/0f8aea6b-1693-4cf6-9f29-594705494eb1)
+![IMG_1050E41A1092-1](https://github.com/wsubset/Ali_Auto_update/assets/157198893/8c235984-c07a-416f-b10d-915ce916fb0c)
 
 6.目前仅支持单一视频格式，即.mp4 or .mkv，暂未适配字幕文件
 
