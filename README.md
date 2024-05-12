@@ -11,7 +11,7 @@
 
 5.关联聚合云推api，实现剧集自动更新到库后的微信推送通知（如下图）
 此图为简体中文版本版本更新
-![Uploading IMG_3312D93E0C42-1.jpeg…]()
+![IMG_0006](https://github.com/wsubset/Ali_Auto_update/assets/157198893/7ed34b86-0bfb-4dc3-809c-8c4ababe8d27)
 
 此图为繁体中文版本版本更新
 ![IMG_1050E41A1092-1](https://github.com/wsubset/Ali_Auto_update/assets/157198893/8c235984-c07a-416f-b10d-915ce916fb0c)
